@@ -20,7 +20,7 @@ Great for a small business, freelancer, café, studio or landing page.
 
 Upload `index.html` and `style.css` to your web host's `public_html` and you're live. 
 
-Need hosting with free SSL and email? **[vagocat.com](https://vagocat.com)** — or build a full site with AI in minutes using the [Vagocat website builder](https://vagocat.com/website-builder).
+Need hosting with free SSL and email? **[vagocat.com](https://vagocat.com)** — or let our team [design the site for you](https://vagocat.com/web-design).
 
 ## License
 
